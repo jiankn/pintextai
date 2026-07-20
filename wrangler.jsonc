@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "pintextai-db",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "0b8a01f7-c956-4f0c-abaf-5c85bc8c4530",
       "migrations_dir": "migrations"
     }
   ],
